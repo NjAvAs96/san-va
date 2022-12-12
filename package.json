@@ -1,0 +1,34 @@
+{
+	"name": "San-Va",
+	"version": "cs-1.0.0",
+	"author": "Vanja Stojanov",
+	"description": "Comming soon page",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"license": "MIT",
+	"devDependencies": {
+		"autoprefixer": "^10.4.13",
+		"browser-sync": "^2.27.10",
+		"cssnano": "^5.1.14",
+		"gulp": "^4.0.2",
+		"gulp-concat": "^2.6.1",
+		"gulp-consolidate": "^0.2.0",
+		"gulp-iconfont": "^11.0.1",
+		"gulp-postcss": "^9.0.1",
+		"gulp-sass": "^5.1.0",
+		"gulp-sourcemaps": "^3.0.0",
+		"gulp-stylelint": "^13.0.0",
+		"gulp-terser": "^2.1.0",
+		"postcss": "^8.4.19",
+		"sass": "^1.56.1",
+		"stylelint": "^14.15.0",
+		"stylelint-config-sass-guidelines": "^9.0.1",
+		"stylelint-config-standard": "^29.0.0",
+		"stylelint-config-standard-scss": "^6.1.0",
+		"stylelint-order": "^5.0.0",
+		"stylelint-scss": "^4.3.0"
+	},
+	"engine": "16.13.0"
+}
